@@ -29,6 +29,8 @@ What is color?
 
 먼저 *컬러채널*은 각 색상 (Red, Green, Blue)의 정보를 담고 있으며 새로운 이미지를 열 때 자동으로 생성되는 채널이다.
 또한 색상 모드에 따라 색상 채널의 수가 달라진다. 
+
+
  a. 색상 채널이 1개인 모드는 비트맵, 그레이스케일, 듀오톤, 인덱스 컬러
  
  
@@ -111,8 +113,17 @@ Red(8bit)+Green(8bit)+Blue(8bit)+Alpha(8bit)로
 
 * * *
 
-출처 : https://wonple.tistory.com/93
-https://nanite.tistory.com/98
-http://egloos.zum.com/knyatom/v/1458411
-https://keithp.com/~keithp/porterduff/p253-porter.pdf
-2019-2 모션그래픽스(2) - 채널의 이해 강의록 
+출처 : 
+- https://wonple.tistory.com/93
+
+
+- https://nanite.tistory.com/98
+
+
+- http://egloos.zum.com/knyatom/v/1458411
+
+
+- https://keithp.com/~keithp/porterduff/p253-porter.pdf
+
+
+- 2019-2 모션그래픽스(2) - 채널의 이해 강의록 
