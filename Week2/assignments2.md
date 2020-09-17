@@ -13,3 +13,6 @@ What is DigitalCompositing ? 디지털 컴포지팅이란 ?
 1.	영상합성
 
 
+* * *
+출처 : 
+- https://en.wikipedia.org/wiki/Digital_compositing#:~:text=Digital%20compositing%20is%20the%20process,analogue%20of%20optical%20film%20compositing.
