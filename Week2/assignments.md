@@ -1,3 +1,6 @@
+디지털 합성에서 
+
+
 What is Alpha ?
 알파는 무엇인가 ? 
 
@@ -22,23 +25,22 @@ What is color?
 
 * * *
 
+채널의 종류는 크게 Color Channels과 Alpha Channels로 구성되어 있다.
 
-RGB?
+먼저 컬러채널은 각 색상 (Red, Green, Blue)의 정보를 담고 있으며 새로운 이미지를 열 때 자동으로 생성되는 채널이다.
+또한 색상 모드에 따라 색상 채널의 수가 달라진다. 
+ a. 색상 채널이 1개인 모드는 비트맵, 그레이스케일, 듀오톤, 인덱스 컬러
+ b. 색상 채널이 3개인 모드는 RGB, Lab
+ c. 색상 채널이 4개인 모드는 CMYK 이다. 
+ 
+ 그치만 통상적으로 웹상에서는 RGB컬러를 취급하고 있기 때문에 주로 어도비사 프로그램등 에서 다루는 컬러채널은 
+RGB 이다. 
 
-Hue 
-Saturation 
-Luminance
+컬러채널의 RGB는 Red, Green, Blue를 토대로 빛의 3원색을 기반으로 하는 색상모드이다. 
 
-색의 삼원소
-빛의 삼원소 
 
-Integer : 012345,..., n
 
-Flaot : 0.1234749
 
-Vector : (0,1,0)
-
-String : Character (e.g if 1 + 2 == 12 not 3, 123+456 == 123456 not 579 it's just set of chracters)
 
 * * *
 
