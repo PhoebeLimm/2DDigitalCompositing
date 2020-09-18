@@ -21,6 +21,16 @@ What is DigitalCompositing ? 디지털 컴포지팅이란 ?
 이는 광학 필름 합성물의 디지털 아날로그이다. 
 
 
+## 디지털 합성의 다양한 툴 
+
+디지털 합성의 다양한 툴로는 
+Paint Programs (페인팅 프로그램)
+Color Correction utilities (색 보정 유틸리티)
+Warping/Morphing Tools
+Matte-Extraction software
+General-purpose compositing packages
+
+
 ## 디지털 합성의 기본 용어 
 
 
@@ -33,4 +43,7 @@ What is DigitalCompositing ? 디지털 컴포지팅이란 ?
 * * *
 출처 : 
 - https://en.wikipedia.org/wiki/Digital_compositing#:~:text=Digital%20compositing%20is%20the%20process,analogue%20of%20optical%20film%20compositing.
-- http://mlab.taik.fi/touch/DCN/DGbackup.html
+- Digital Compositing 저서 Ron M. Brinkmann
+
+
+http://mlab.taik.fi/touch/DCN/DGbackup.html
