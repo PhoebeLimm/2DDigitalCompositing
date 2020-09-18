@@ -48,7 +48,7 @@ What is DigitalCompositing ? 디지털 컴포지팅이란 ?
 ## 디지털 합성의 기본 용어 
 
 
-imege(http://mlab.taik.fi/touch/DCN/pix/GRAPHS/lr/bricur_v1_print.jpg)
+image(http://mlab.taik.fi/touch/DCN/pix/GRAPHS/lr/bricur_v1_print.jpg)
 
 ## 디지털 합성의 다양한 종류 
 
