@@ -44,6 +44,4 @@ General-purpose compositing packages
 출처 : 
 - https://en.wikipedia.org/wiki/Digital_compositing#:~:text=Digital%20compositing%20is%20the%20process,analogue%20of%20optical%20film%20compositing.
 - Digital Compositing 저서 Ron M. Brinkmann
-
-
 http://mlab.taik.fi/touch/DCN/DGbackup.html
