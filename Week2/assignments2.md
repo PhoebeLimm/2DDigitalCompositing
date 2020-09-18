@@ -24,12 +24,24 @@ What is DigitalCompositing ? 디지털 컴포지팅이란 ?
 ## 디지털 합성의 다양한 툴 
 
 디지털 합성의 다양한 툴로는 
-Paint Programs (페인팅 프로그램)
-Color Correction utilities (색 보정 유틸리티)
-Warping/Morphing Tools
-Matte-Extraction software
-General-purpose compositing packages
 
+
+> Paint Programs (페인팅 프로그램)
+
+
+> Color Correction utilities (색 보정 유틸리티)
+
+
+> Warping/Morphing Tools (뒤틀림/모핑 도구)
+
+
+> Matte-Extraction software (매트추출 소프트웨어)
+
+
+> General-purpose compositing packages (범용 복합 패키지)
+
+
+등이 있다.
 
 ## 디지털 합성의 기본 용어 
 
