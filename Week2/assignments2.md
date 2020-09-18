@@ -48,9 +48,43 @@ What is DigitalCompositing ? 디지털 컴포지팅이란 ?
 ## 디지털 합성의 기본 용어 
 
 
-image(http://mlab.taik.fi/touch/DCN/pix/GRAPHS/lr/bricur_v1_print.jpg)
+디지털 합성은 각 개별 요소-*'원소'*들을 '활용'하여 최종적인 이미지를 만들어낸다.
+
+
+제 각기 다른 원본이미지들을 통해 전혀 다른 합성물이 탄생하게 되는 것이다. 
+
+
+또한 합성작업을 하다보면 *'레이어'* 라는 단어를 쉽게 접하게 된다.
+
+
+그리고 *'플레이트'* 라고 불리는 원소의 하위 집합은 일반적으로 스캔한 원래 시퀀스를 가리킨다.
+
+
+합성물을 만드는 동안 발생하는 중간 원소는 일반적으로 플레이트라고 부르지 않는다. 
+
+
 
 ## 디지털 합성의 다양한 종류 
+
+크로마키
+
+
+2D / 3D 이미지 합성 
+
+
+매트 페인팅
+
+
+몰핑
+
+
+모션캡쳐
+
+
+로토스코핑 
+
+
+등이 있다 .
 
 
 
@@ -60,3 +94,4 @@ image(http://mlab.taik.fi/touch/DCN/pix/GRAPHS/lr/bricur_v1_print.jpg)
 - https://en.wikipedia.org/wiki/Digital_compositing#:~:text=Digital%20compositing%20is%20the%20process,analogue%20of%20optical%20film%20compositing.
 - Digital Compositing Written by Ron M. Brinkmann
 http://mlab.taik.fi/touch/DCN/DGbackup.html
+- https://frientor.tistory.com/119
