@@ -1,8 +1,10 @@
 디지털 합성에서 
+=============
 
 
 What is Alpha ?
 알파는 무엇인가 ? 
+=============
 
 
 그리고
@@ -10,6 +12,7 @@ What is Alpha ?
 
 What is color? 
 색은 무엇일까 ?
+======================
 
 
 * * *
@@ -91,7 +94,7 @@ Red(8bit)+Green(8bit)+Blue(8bit)로 총 24bit의 이미지에서는 알파 채�
 
 
 
-Red(8bit)+Green(8bit)+Blue(8bit)+Alpha(8bit)로 
+> Red(8bit)+Green(8bit)+Blue(8bit)+Alpha(8bit)로 
 
 
 
