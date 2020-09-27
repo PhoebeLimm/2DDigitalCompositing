@@ -10,6 +10,7 @@ In the context of color grading, a LUT transforms color input values (camera) to
 First of all what is a LUT and what are its typical uses?
 ---------------------------
 
+![ex_screenshot](./img/screenshot.png)
 
 LUT means “Look Up Table.” It’s helpful to think of it like a math problem: R= S+L
 
