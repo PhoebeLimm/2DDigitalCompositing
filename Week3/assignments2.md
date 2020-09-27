@@ -1,6 +1,6 @@
 What is LUT? Color LookUpTable ?
 ===============
-
+![colorlut](https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week3/img/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-09-28%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%201.44.15.png)
 
 LUT (known as Lookup Table), is a term used to describe a predetermined array of numbers that provide a shortcut for a specific computation. 
 
