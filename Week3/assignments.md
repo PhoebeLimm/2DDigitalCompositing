@@ -4,6 +4,7 @@
 
 1. 컬러스페이스란?
 
+![colorspace](https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week3/img/Colorspace.png)
 
 A color space is a specific organization of colors.
 
@@ -41,6 +42,7 @@ The red component defines one axis of this coordinate system, blue defines the s
 
 Any valid RGB color falls somewhere within this color space. For example, pure magenta is 100% blue, 100% red, and 0% green.
 
+![YUV](https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week3/img/8ec60365-ed5c-41f7-9da9-be46aa82896a.gif)
 
 > (출처 : https://docs.microsoft.com/en-us/windows/win32/medfound/about-yuv-video#:~:text=The%20term%20YUV%20refers%20to,%22YUV%22%20is%20technically%20inaccurate.)
 
