@@ -5,6 +5,7 @@ visual languages for storytelling
 
 
 1. Value Contrast
+======
 > 명암대비
 
 
@@ -21,12 +22,12 @@ Contrast is Relative
 
 
 2. Textural Contrast
-
+======
 
 질감대비 
 
 
 3. Sharpness Contrast
-
+=======
 
 
