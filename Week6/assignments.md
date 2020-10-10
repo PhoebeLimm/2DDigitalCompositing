@@ -136,7 +136,7 @@ FG, MG, BG
 z축 안으로 펼쳐진 사물을 통해 우리는 Depth를 더 잘 인지할 수 있고, 이로 인해 화면이 더욱 풍성해진다. 
 
 
-<img src="https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/%EA%B0%80%EC%9C%84%EC%86%90.PNG" width="40%" height="40%" title="%(비율) 크기 설정" alt="Rule of third"></img><br/>
+<img src="https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/%EA%B0%80%EC%9C%84%EC%86%90.PNG" width="60%" height="60%" title="%(비율) 크기 설정" alt="Rule of third"></img><br/>
 <가위손>, 팀버튼(1990)
 
 4.Color
