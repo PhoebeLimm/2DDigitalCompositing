@@ -25,6 +25,8 @@ Visual Language(2)
 ![Rule of third](https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/5e2ff226240000210964d40a%20(1).jpeg)
 
 
+<img src="https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/5e2ff226240000210964d40a%20(1).jpeg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Rule of third"></img><br/>
+
 Photo by Steve McCurry
 
 
@@ -36,7 +38,7 @@ Photo by Steve McCurry
 
 - Shape(framing)
 
-![Framing]<img width="600" height="600"></img>(https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/%EA%B7%B8%EB%A6%BC4.png)
+![Framing](https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/%EA%B7%B8%EB%A6%BC4.png)
 
 
 Photo by Steve McCurry
