@@ -22,6 +22,12 @@ Visual Language(2)
 - Rule of third
 
 
+![Rule of third](https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/5e2ff226240000210964d40a%20(1).jpeg)
+
+
+Photo by Steve McCurry
+
+
 "가로와 세로를 3분할해 선이 겹치는 부분에 중심 피사체를 둬라. 사진 속 선이 그려질 경우 그 3분할 선에 맞춰라."
 
 
@@ -31,6 +37,9 @@ Visual Language(2)
 - Shape(framing)
 
 ![Framing](https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/%EA%B7%B8%EB%A6%BC4.png)
+
+
+Photo by Steve McCurry
 
 
 "창틀과 문틀의 동그라미와 네모를 활용하라."
