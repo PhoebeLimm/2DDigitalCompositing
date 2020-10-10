@@ -8,12 +8,12 @@ Visual Language(2)
 
 - Center Composition
 
-"대칭은 눈을 편안하게 한다."
+> "대칭은 눈을 편안하게 한다."
 
 
 (by COOPH, 9 photo composition tips (feat. Steve McCurry))
 
-<img src="https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/5e2ff226240000210964d40a%20(1).jpeghttps://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/%EC%84%B1%EB%82%98%EC%95%A8.PNG" width="60%" height="60%" title="%(비율) 크기 설정" alt="Rule of third"></img><br/>
+<img src="https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/%EC%84%B1%EB%82%98%EC%95%A8.PNG" width="60%" height="60%" title="%(비율) 크기 설정" alt="Rule of third"></img><br/>
 
 
 <성실한 나라의 앨리스>, 안국진, (2015)
@@ -36,7 +36,7 @@ Visual Language(2)
 Photo by Steve McCurry
 
 
-"가로와 세로를 3분할해 선이 겹치는 부분에 중심 피사체를 둬라. 사진 속 선이 그려질 경우 그 3분할 선에 맞춰라."
+> "가로와 세로를 3분할해 선이 겹치는 부분에 중심 피사체를 둬라. 사진 속 선이 그려질 경우 그 3분할 선에 맞춰라."
 
 
 (by COOPH, 9 photo composition tips (feat. Steve McCurry))
@@ -51,7 +51,7 @@ Photo by Steve McCurry
 Photo by Steve McCurry
 
 
-"창틀과 문틀의 동그라미와 네모를 활용하라."
+> "창틀과 문틀의 동그라미와 네모를 활용하라."
 
 
 (by COOPH, 9 photo composition tips (feat. Steve McCurry))
@@ -71,7 +71,7 @@ Photo by Steve McCurry
 - Linear Motif
 
 
-"꼭지점을 따라 자연스럽게 시선이 흐르게 하라."
+> "꼭지점을 따라 자연스럽게 시선이 흐르게 하라."
 
 
 ![꼭지점](https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/%EA%B7%B8%EB%A6%BC3.png)
@@ -80,7 +80,7 @@ Photo by Steve McCurry
 Photo by Steve McCurry
 
 
-"대각선은 역동적이다."
+> "대각선은 역동적이다."
 
 (by COOPH, 9 photo composition tips (feat. Steve McCurry))
 
@@ -113,13 +113,13 @@ Photo by Steve McCurry
 Photo by Steve McCurry
 
 
-"패턴은 아름답다. 그리고 패턴이 방해 받는 풍경은 더더욱 아름답다."
+> "패턴은 아름답다. 그리고 패턴이 방해 받는 풍경은 더더욱 아름답다."
 
 
 (by COOPH, 9 photo composition tips (feat. Steve McCurry))
 
 
-<img src="https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/%EC%95%84%EA%B0%80%EC%94%A8.PNG" width="40%" height="40%" title="%(비율) 크기 설정" alt="Rule of third"></img><br/>
+<img src="https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/%EC%95%84%EA%B0%80%EC%94%A8.PNG" width="60%" height="60%" title="%(비율) 크기 설정" alt="Rule of third"></img><br/>
 <아가씨>, 박찬욱(2016)
 
 
@@ -158,7 +158,7 @@ z축 안으로 펼쳐진 사물을 통해 우리는 Depth를 더 잘 인지할 �
 
 - Http://my.pointingclub.com/free-gamut-mask-tool
 
-
+<img src="https://github.com/PhoebeLimm/2DDigitalCompositing/blob/master/Week6/img/Color-in-Film-Part-2-sm.jpg" width="60%" height="60%" title="%(비율) 크기 설정" alt="Rule of third"></img><br/>
 
 ** 출처 :
 
