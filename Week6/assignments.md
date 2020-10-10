@@ -22,10 +22,8 @@ Visual Language(2)
 - Rule of third
 
 
-![Rule of third](https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/5e2ff226240000210964d40a%20(1).jpeg)
+<img src="https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/5e2ff226240000210964d40a%20(1).jpeg" width="60%" height="60%" title="%(비율) 크기 설정" alt="Rule of third"></img><br/>
 
-
-<img src="https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/5e2ff226240000210964d40a%20(1).jpeg" width="40%" height="40%" title="%(비율) 크기 설정" alt="Rule of third"></img><br/>
 
 Photo by Steve McCurry
 
