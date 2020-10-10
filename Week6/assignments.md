@@ -1,4 +1,4 @@
-visual language(2)
+Visual Language(2)
 ======
 
 
@@ -12,9 +12,24 @@ visual language(2)
 좌우대칭의 장인, 웨스앤더슨
 
 
-- Rule of thired
+- Rule of third
 - Shape(framing)
 - Linear Motif
+
+
+> Lines
+
+
+Diagonal : Very Dynamic, Impressive
+
+
+Vertical : Less Dynamic
+
+
+Horizon : Least Dynamic, Static
+
+
+Curved : Subtle emotional
 
 2.Patterns 
 -------
