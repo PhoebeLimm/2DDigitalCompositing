@@ -12,24 +12,25 @@ Visual Language(2)
 좌우대칭의 장인, 웨스앤더슨
 
 
+
 - Rule of third
 - Shape(framing)
 - Linear Motif
 
 
-> Lines
++ Lines
 
 
-Diagonal : Very Dynamic, Impressive
+> Diagonal : Very Dynamic, Impressive
 
 
-Vertical : Less Dynamic
+> Vertical : Less Dynamic
 
 
-Horizon : Least Dynamic, Static
+> Horizon : Least Dynamic, Static
 
 
-Curved : Subtle emotional
+> Curved : Subtle emotional
 
 2.Patterns 
 -------
@@ -47,3 +48,12 @@ FG, MG, BG
 --------
 
 * 컬러는 상대적인 것 
+
+
+** 출처 :
+
+- https://www.youtube.com/watch?v=7ZVyNjKSr0M&feature=emb_title
+
+
+- https://www.huffingtonpost.kr/2015/03/25/------------_n_6937186.html
+
