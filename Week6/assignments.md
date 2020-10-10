@@ -36,7 +36,7 @@ Photo by Steve McCurry
 
 - Shape(framing)
 
-![Framing](https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/%EA%B7%B8%EB%A6%BC4.png)
+![Framing]<img width="600" height="600"></img>(https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/%EA%B7%B8%EB%A6%BC4.png)
 
 
 Photo by Steve McCurry
