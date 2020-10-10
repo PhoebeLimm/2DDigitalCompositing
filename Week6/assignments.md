@@ -29,17 +29,16 @@ Visual Language(2)
 
 - Rule of third
 
+> "가로와 세로를 3분할해 선이 겹치는 부분에 중심 피사체를 둬라. 사진 속 선이 그려질 경우 그 3분할 선에 맞춰라."
+
+
+(by COOPH, 9 photo composition tips (feat. Steve McCurry))
+
 
 <img src="https://raw.githubusercontent.com/PhoebeLimm/2DDigitalCompositing/master/Week6/img/5e2ff226240000210964d40a%20(1).jpeg" width="60%" height="60%" title="%(비율) 크기 설정" alt="Rule of third"></img><br/>
 
 
 Photo by Steve McCurry
-
-
-> "가로와 세로를 3분할해 선이 겹치는 부분에 중심 피사체를 둬라. 사진 속 선이 그려질 경우 그 3분할 선에 맞춰라."
-
-
-(by COOPH, 9 photo composition tips (feat. Steve McCurry))
 
 
 - Shape(framing)
